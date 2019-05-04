@@ -1,0 +1,22 @@
+{"developer": {
+  "fullName": "Uliana Zhernokleva",
+  "profile": "string",
+  "education": "string",
+  "phone": "380666379348",
+  "mail": "string",
+  "address": "string",
+  "skills": [],
+  "interests": []
+  },
+  "experience": {
+    "position": "string",
+    "company": "string",
+    "period": "string",
+    "description": "string"
+  },
+  "education": {
+    "name": "string",
+    "period": "string",
+    "description": "string"
+  }
+}
